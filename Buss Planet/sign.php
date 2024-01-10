@@ -52,7 +52,7 @@
             <input type="submit" name="submit1" value="Login" class="btn solid" />
             <p class="social-text">Or Sign in with social platforms</p>
             <div class="social-media">
-              <a href="#" class="social-icon">
+              <a href="" class="social-icon">
                 <i class="fab fa-facebook-f"></i>
               </a>
               <a href="#" class="social-icon">

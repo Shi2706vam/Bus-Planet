@@ -39,15 +39,6 @@
             <div class="links">
               <ul>
                 <li>
-                  <a href="#header">Home</a>
-                </li>
-                <li>
-                  <a href="service.php">Services</a>
-                </li>
-                <li>
-                  <a href="#ABOUT">About Us</a>
-                </li>
-                <li>
                   <a href="contact_us.php">Contact Us</a>
                 </li>
                 <li><a href="logout.php">Logout</a></li>
